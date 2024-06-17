@@ -1,4 +1,4 @@
-**Install Dependencies**
+**Git clone + Install Dependencies**
 
 "git clone https://github.com/DaveUseGitHub/rohmat-gpt.git"
 
