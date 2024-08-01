@@ -34,5 +34,6 @@ venv\Scripts\activate
 streamlit run frontend.py
 
 ***with nohup***
+
 streamlit run frontend.py
 
