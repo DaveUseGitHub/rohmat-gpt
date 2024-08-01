@@ -2,13 +2,10 @@ from dotenv import load_dotenv
 #from langchain.chat_models import ChatOpenAI
 #from langchain_openai import OpenAI
 from langchain_aws import ChatBedrock
-from langchain_community.embeddings import BedrockEmbeddings
 from langchain_core.prompts import PromptTemplate
 from langchain.chains import LLMChain
 from langchain.chains.conversation.memory import ConversationBufferWindowMemory
 import boto3
-import getpass
-import os
 
 #load_dotenv()
 bedrock_runtime = boto3.client(

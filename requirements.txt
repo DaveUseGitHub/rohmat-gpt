@@ -2,4 +2,8 @@ streamlit
 streamlit-chat
 python-dotenv
 langchain
-openai
+langchain-aws
+langchain-community 
+langchain-core
+awscli
+boto3
