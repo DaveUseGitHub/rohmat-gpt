@@ -5,12 +5,13 @@ Use case:
 3. Your buddy
 
 **Git clone**
-"git clone https://github.com/DaveUseGitHub/rohmat-gpt.git"
-"cd rohmat-gpt"
+git clone https://github.com/DaveUseGitHub/rohmat-gpt.git
+cd rohmat-gpt
 
 **I Already set up the virtual environment so you dont have to manually install the dependency**
 ***Linux***
-source venv/bin/activate #or
+source venv/bin/activate 
+or
 source venv/Scripts/activate
 
 ***Windows***
