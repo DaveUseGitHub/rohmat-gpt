@@ -1,9 +1,10 @@
 import main as model
 import streamlit as st
+from streamlit_chat import message
 
 st.set_page_config(page_title="Rohmat-GPT")
 st.title("Rohmat-GPT")
-st.write("Powered by GPT-4o")
+st.write("Powered by Amazon Bedrock")
     
 with st.sidebar:
   st.header("Rohmat-GPT")
