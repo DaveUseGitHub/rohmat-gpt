@@ -8,6 +8,8 @@ Use case:
 git clone https://github.com/DaveUseGitHub/rohmat-gpt.git
 cd rohmat-gpt
 
+************
+
 **I Already set up the virtual environment so you dont have to manually install the dependency**
 
 ***Linux***
@@ -23,14 +25,13 @@ source venv/Scripts/activate
 
 venv\Scripts\activate
 
+**********
 
 **Run the script**
 
 ***Default***
 
 streamlit run frontend.py
-
-******
 
 ***with nohup***
 streamlit run frontend.py
